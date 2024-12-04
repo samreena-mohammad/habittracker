@@ -1,0 +1,11 @@
+[{
+        "name": "Drink 8 glasses of water",
+        "weeklyCompletion": 5,
+        "dailyGoal": 8
+    },
+    {
+        "name": "Exercise",
+        "weeklyCompletion": 6,
+        "dailyGoal": 1
+    }
+]
